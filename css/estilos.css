@@ -1,6 +1,30 @@
 body{
     text-align: center;
-    background-color:goldenrod;
+    background-color:black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20pt;
+    color: white;
+}
+
+#imagen1
+{
+    width: 50%;   
+    border: 5px solid white;
+    
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 3px solid blue;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+
+}
+
+#container h1{
+    font-size:50pt;
+    color:chartreuse;
 }
