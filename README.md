@@ -1,2 +1,2 @@
 # Hyperblog
-Un Blog De prueba de Información Acerca de GitHub
+Un Blog De prueba que contiene Información Acerca de GitHub
